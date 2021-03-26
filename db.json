@@ -1,0 +1,10 @@
+{
+  "tickets": [
+    {
+      "origin": "ZAG",
+      "destination": "LON",
+      "date": "2021-04-11",
+      "id": 4
+    }
+  ]
+}
